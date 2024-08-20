@@ -6,7 +6,7 @@ body{
 }
 
 .hero{
-    background-image: url("https://t3.ftcdn.net/jpg/06/24/52/34/360_F_624523450_NbFfAibNsbxFDjGKueOukV4ijNGFIuQ1.jpg");
+    background-image: url("/images/sunset.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
